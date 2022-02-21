@@ -1,4 +1,4 @@
-package com.example.examen;
+package com.eilco.examen;
 
 import androidx.appcompat.app.AppCompatActivity;
 
