@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Examen</string>
+    <string name="app_name">Formula One</string>
+    <string name="name">Name</string>
+    <string name="equipe">Equipe</string>
+    <string name="autrespilote">Les autres pilotes</string>
+    <string name="classement">classement</string>
+    <string name="nbpointequipe">nbpointequipe</string>
+    <string name="nbpoint">nbPoint</string>
 </resources>
